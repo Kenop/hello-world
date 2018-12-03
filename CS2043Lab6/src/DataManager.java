@@ -4,6 +4,8 @@ import java.util.*;
 // third change
 public class DataNanager {
 	
+	int integer = 0;
+	
 	class CourseInfoData {
 		String courseId;
 		String courseTitle;
