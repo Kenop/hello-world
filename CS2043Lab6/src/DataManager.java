@@ -1,5 +1,6 @@
 import java.util.*;
 
+//source code change test
 public class DataManager {
 	
 	class CourseInfoData {
