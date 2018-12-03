@@ -2,7 +2,7 @@ import java.util.*;
 
 // source code change test
 // third change
-public class DataManager {
+public class DataNanager {
 	
 	class CourseInfoData {
 		String courseId;
